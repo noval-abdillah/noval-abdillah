@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F5132,50:198754,100:75DC99&height=220&section=header&text=Noval%20Abdillah&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI-Assisted%20Engineering&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F5132,50:198754,100:75DC99&height=220&section=header&text=Noval%20Abdillah&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI-Assisted%20Engineering&descAlignY=58&descSize=20" width="100%" alt="Noval Abdillah — Full Stack Developer | AI-Assisted Engineering"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=650&lines=Fullstack+Developer+%7C+Next.js+%C2%B7+Node.js+%C2%B7+PostgreSQL;Building+production-ready+apps+with+AI+as+a+partner;From+SaaS+dashboards+to+100%2C000%2B+player+games;Bekasi%2C+West+Java%2C+Indonesia" alt="Typing SVG" />
@@ -9,16 +9,16 @@
 <br/>
 
 <a href="mailto:noval.abdillah223@gmail.com">
-  <img src="https://img.shields.io/badge/Email-noval.abdillah223%40gmail.com-2E8B57?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-noval.abdillah223%40gmail.com-2E8B57?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: noval.abdillah223@gmail.com"/>
 </a>
 <a href="https://linkedin.com/in/noval-abdillah">
-  <img src="https://img.shields.io/badge/LinkedIn-noval--abdillah-2E8B57?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-noval--abdillah-2E8B57?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: noval-abdillah"/>
 </a>
 <a href="https://github.com/noval-abdillah">
-  <img src="https://img.shields.io/badge/GitHub-noval--abdillah-2E8B57?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-noval--abdillah-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: noval-abdillah"/>
 </a>
 <a href="https://noval-portfolio-gold.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2E8B57?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2E8B57?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio: noval-portfolio-gold.vercel.app"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=noval-abdillah&label=Profile%20Views&color=22C55E&style=flat-square" alt="profile views"/>
@@ -43,8 +43,6 @@ currently:
 fun_fact: "Pernah membangun game Roblox yang menarik 100.000+ pemain 🏔️"
 ```
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="0" height="0" style="display:none"/>
-
 ---
 
 ## 🛠️ Technical Skills
@@ -53,35 +51,35 @@ fun_fact: "Pernah membangun game Roblox yang menarik 100.000+ pemain 🏔️"
 
 **Frontend**
 
-<img src="https://img.shields.io/badge/React.js-15803D?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-15803D?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-15803D?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript%20ES6+-15803D?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind%20CSS-15803D?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/GSAP-15803D?style=for-the-badge&logo=greensock&logoColor=white"/>
-<img src="https://img.shields.io/badge/Three.js-15803D?style=for-the-badge&logo=threedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React.js-15803D?style=for-the-badge&logo=react&logoColor=white" alt="React.js"/>
+<img src="https://img.shields.io/badge/Next.js-15803D?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/TypeScript-15803D?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/JavaScript%20ES6+-15803D?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript ES6+"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-15803D?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/GSAP-15803D?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP"/>
+<img src="https://img.shields.io/badge/Three.js-15803D?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"/>
 
 **Backend**
 
-<img src="https://img.shields.io/badge/Node.js-166534?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-166534?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-166534?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/RESTful%20API-166534?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT%20Auth-166534?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-166534?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-166534?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+<img src="https://img.shields.io/badge/PHP-166534?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/RESTful%20API-166534?style=for-the-badge&logo=fastapi&logoColor=white" alt="RESTful API"/>
+<img src="https://img.shields.io/badge/JWT%20Auth-166534?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT Auth"/>
 
 **Database**
 
-<img src="https://img.shields.io/badge/PostgreSQL-14532D?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-14532D?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-14532D?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-14532D?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL-14532D?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Supabase-14532D?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
 
 **Tools**
 
-<img src="https://img.shields.io/badge/Git-052E16?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-052E16?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-052E16?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Copilot-052E16?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
-<img src="https://img.shields.io/badge/CI%2FCD-052E16?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-052E16?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-052E16?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Vercel-052E16?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+<img src="https://img.shields.io/badge/GitHub%20Copilot-052E16?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
+<img src="https://img.shields.io/badge/CI%2FCD-052E16?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
 
 </div>
 
@@ -127,7 +125,7 @@ fun_fact: "Pernah membangun game Roblox yang menarik 100.000+ pemain 🏔️"
 |---|---|---|
 | **[☕ Brew Ops — Coffee Shop Management SaaS](https://webs-coffeshop.vercel.app/)** | Next.js · Node.js · PostgreSQL · Supabase · Tailwind | Platform SaaS end-to-end: stok real-time, absensi karyawan, laporan penjualan, multi-role auth (JWT + RBAC), dashboard analitik dengan notifikasi otomatis. |
 | **[🔧 Tukang Express — Handyman Booking Platform](https://tukang-express.vercel.app/)** | Next.js · React · TypeScript · Tailwind · Node.js · PostgreSQL | Platform booking jasa tukang end-to-end: pemesanan, penjadwalan, digital wallet, dan flow SOP lengkap dari request klien hingga konfirmasi selesai. |
-| **[Cipta Interior ( CKS Group )](ciptainterior.rf.gd)** | Next.js 14 · Tailwind · GSAP · Supabase | Website profil coffee shop yang dioptimasi SEO/AEO/GEO dengan skor rata-rata 82–100%, siap bersaing di AI-powered & traditional search engines. |
+| **[Cipta Interior (CKS Group)](http://ciptainterior.rf.gd)** | Next.js 14 · Tailwind · GSAP · Supabase | Website profil coffee shop yang dioptimasi SEO/AEO/GEO dengan skor rata-rata 82–100%, siap bersaing di AI-powered & traditional search engines. |
 
 </div>
 
@@ -136,6 +134,7 @@ fun_fact: "Pernah membangun game Roblox yang menarik 100.000+ pemain 🏔️"
 ## 🎓 Education & Certifications
 
 - 🏫 **SMA Negeri 1 Tarumajaya** — Science Track (MIPA), 2022 – 2025, Bekasi, West Java
+- 📜 **Front-End & Back-End Development - Nasional** — Digital Talent Academy (DTA) - KOMDIG, 2026
 - 📜 **Google AI Professional Certificate** — Google / Coursera, 2026
 - 📜 **AI-Assisted Development with GitHub Copilot** — Microsoft, 2025
 - 📜 **Intermediate Problem Solving** — HackerRank, 2024
@@ -146,10 +145,10 @@ fun_fact: "Pernah membangun game Roblox yang menarik 100.000+ pemain 🏔️"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=noval-abdillah&show_icons=true&theme=transparent&hide_border=true&title_color=22C55E&icon_color=22C55E&text_color=BBF7D0&ring_color=22C55E" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=noval-abdillah&theme=transparent&hide_border=true&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=BBF7D0&currStreakNum=BBF7D0&sideNums=BBF7D0&dates=BBF7D0" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=noval-abdillah&show_icons=true&theme=transparent&hide_border=true&title_color=22C55E&icon_color=22C55E&text_color=BBF7D0&ring_color=22C55E" width="49%" alt="📊 GitHub Stats: gagal memuat — cek statistik lengkap di github.com/noval-abdillah"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=noval-abdillah&theme=transparent&hide_border=true&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=BBF7D0&currStreakNum=BBF7D0&sideNums=BBF7D0&dates=BBF7D0" width="49%" alt="🔥 GitHub Streak Stats: gagal memuat — cek statistik lengkap di github.com/noval-abdillah"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noval-abdillah&layout=compact&theme=transparent&hide_border=true&title_color=22C55E&text_color=BBF7D0&langs_count=8" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noval-abdillah&layout=compact&theme=transparent&hide_border=true&title_color=22C55E&text_color=BBF7D0&langs_count=8" width="49%" alt="💻 Top Languages: gagal memuat — cek statistik lengkap di github.com/noval-abdillah"/>
 
 </div>
 
@@ -159,13 +158,13 @@ fun_fact: "Pernah membangun game Roblox yang menarik 100.000+ pemain 🏔️"
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=noval-abdillah&theme=react-dark&bg_color=transparent&color=22C55E&line=22C55E&point=BBF7D0&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=noval-abdillah&theme=react-dark&bg_color=transparent&color=22C55E&line=22C55E&point=BBF7D0&hide_border=true" width="100%" alt="🌿 Contribution Activity Graph: gagal memuat — cek aktivitas lengkap di github.com/noval-abdillah"/>
 
-<img src="https://raw.githubusercontent.com/noval-abdillah/noval-abdillah/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/noval-abdillah/noval-abdillah/output/github-contribution-grid-snake-dark.svg" width="100%" alt="🐍 Snake Animation: sedang dibuat / belum tersedia — lihat contribution graph di atas"/>
 
 </div>
 
-> ⚙️ *Snake animation di atas perlu setup [GitHub Action platane/snk](https://github.com/Platane/snk) sekali di repo `noval-abdillah/noval-abdillah` supaya file `snake.svg` ter-generate otomatis setiap hari.* <!-- sesuaikan -->
+> ⚙️ *Snake animation di atas perlu setup [GitHub Action platane/snk](https://github.com/Platane/snk) sekali di repo `noval-abdillah/noval-abdillah` supaya file `snake.svg` ter-generate otomatis setiap hari.*
 
 ---
 
@@ -173,6 +172,6 @@ fun_fact: "Pernah membangun game Roblox yang menarik 100.000+ pemain 🏔️"
 
 ### 💬 "Directing AI without losing focus — that's the craft."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:75DC99,50:198754,100:0F5132&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:75DC99,50:198754,100:0F5132&height=120&section=footer" width="100%" alt="Terima kasih sudah berkunjung ke profil Noval Abdillah 🌱"/>
 
 </div>
