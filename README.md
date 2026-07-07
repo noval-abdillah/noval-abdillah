@@ -164,8 +164,6 @@ fun_fact: "Pernah membangun game Roblox yang menarik 100.000+ pemain 🏔️"
 
 </div>
 
-> ⚙️ *Snake animation di atas perlu setup [GitHub Action platane/snk](https://github.com/Platane/snk) sekali di repo `noval-abdillah/noval-abdillah` supaya file `snake.svg` ter-generate otomatis setiap hari.*
-
 ---
 
 <div align="center">
