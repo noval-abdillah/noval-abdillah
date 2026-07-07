@@ -134,7 +134,7 @@ fun_fact: "Pernah membangun game Roblox yang menarik 100.000+ pemain 🏔️"
 ## 🎓 Education & Certifications
 
 - 🏫 **SMA Negeri 1 Tarumajaya** — Science Track (MIPA), 2022 – 2025, Bekasi, West Java
-- 📜 **Front-End & Back-End Development - Nasional** — Digital Talent Academy (DTA) - KOMDIG, 2026
+- 📜 **Front-End & Back-End Development - Nasional** — Digital Talent Academy (DTA) - KOMDIGI, 2026
 - 📜 **Google AI Professional Certificate** — Google / Coursera, 2026
 - 📜 **AI-Assisted Development with GitHub Copilot** — Microsoft, 2025
 - 📜 **Intermediate Problem Solving** — HackerRank, 2024
