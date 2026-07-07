@@ -125,13 +125,11 @@ fun_fact: "Pernah membangun game Roblox yang menarik 100.000+ pemain 🏔️"
 
 | Project | Stack | Highlight |
 |---|---|---|
-| **[☕ Brew Ops — Coffee Shop Management SaaS](https://noval-portfolio-gold.vercel.app)** | Next.js · Node.js · PostgreSQL · Supabase · Tailwind | Platform SaaS end-to-end: stok real-time, absensi karyawan, laporan penjualan, multi-role auth (JWT + RBAC), dashboard analitik dengan notifikasi otomatis. |
-| **[🔧 Tukang Express — Handyman Booking Platform](https://noval-portfolio-gold.vercel.app)** | Next.js · React · TypeScript · Tailwind · Node.js · PostgreSQL | Platform booking jasa tukang end-to-end: pemesanan, penjadwalan, digital wallet, dan flow SOP lengkap dari request klien hingga konfirmasi selesai. |
-| **[☕ Brayan Coffee — Booking Landing Page](https://noval-portfolio-gold.vercel.app)** | Next.js 14 · Tailwind · GSAP · Supabase | Website profil coffee shop yang dioptimasi SEO/AEO/GEO dengan skor rata-rata 82–100%, siap bersaing di AI-powered & traditional search engines. |
+| **[☕ Brew Ops — Coffee Shop Management SaaS](https://webs-coffeshop.vercel.app/)** | Next.js · Node.js · PostgreSQL · Supabase · Tailwind | Platform SaaS end-to-end: stok real-time, absensi karyawan, laporan penjualan, multi-role auth (JWT + RBAC), dashboard analitik dengan notifikasi otomatis. |
+| **[🔧 Tukang Express — Handyman Booking Platform](https://tukang-express.vercel.app/)** | Next.js · React · TypeScript · Tailwind · Node.js · PostgreSQL | Platform booking jasa tukang end-to-end: pemesanan, penjadwalan, digital wallet, dan flow SOP lengkap dari request klien hingga konfirmasi selesai. |
+| **[Cipta Interior ( CKS Group )](ciptainterior.rf.gd)** | Next.js 14 · Tailwind · GSAP · Supabase | Website profil coffee shop yang dioptimasi SEO/AEO/GEO dengan skor rata-rata 82–100%, siap bersaing di AI-powered & traditional search engines. |
 
 </div>
-
-> 💡 *Ganti link "live demo" di atas dengan URL asli masing-masing proyek.* <!-- sesuaikan -->
 
 ---
 
@@ -163,8 +161,6 @@ fun_fact: "Pernah membangun game Roblox yang menarik 100.000+ pemain 🏔️"
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=noval-abdillah&theme=react-dark&bg_color=transparent&color=22C55E&line=22C55E&point=BBF7D0&hide_border=true" width="100%"/>
 
-<!-- Snake animation: butuh setup GitHub Action generate-snake sekali di repo profil.
-     Setelah action aktif, snake.svg otomatis ter-generate & gambar di bawah akan tampil. -->
 <img src="https://raw.githubusercontent.com/noval-abdillah/noval-abdillah/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
