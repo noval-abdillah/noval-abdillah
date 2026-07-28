@@ -1,129 +1,175 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F5132,50:198754,100:75DC99&height=180&section=header&text=Noval%20Abdillah&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer&descAlignY=62&descSize=18" width="100%" alt="Noval Abdillah — Full Stack Developer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F5132,50:198754,100:75DC99&height=220&section=header&text=Noval%20Abdillah&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI-Assisted%20Engineering&descAlignY=58&descSize=20" width="100%" alt="Noval Abdillah — Full Stack Developer | AI-Assisted Engineering"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=550&lines=Next.js+%C2%B7+Node.js+%C2%B7+PostgreSQL;Building+production-ready+apps+with+AI+as+a+partner;Bekasi%2C+West+Java%2C+Indonesia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=650&lines=Fullstack+Developer+%7C+Next.js+%C2%B7+Node.js+%C2%B7+PostgreSQL;Building+production-ready+apps+with+AI+as+a+partner;From+SaaS+dashboards+to+100%2C000%2B+player+games;Bekasi%2C+West+Java%2C+Indonesia" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
-<a href="mailto:noval.abdillah223@gmail.com"><img src="https://img.shields.io/badge/Email-2E8B57?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://linkedin.com/in/noval-abdillah"><img src="https://img.shields.io/badge/LinkedIn-2E8B57?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/noval-abdillah"><img src="https://img.shields.io/badge/GitHub-2E8B57?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://noval-portfolio-gold.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2E8B57?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:noval.abdillah223@gmail.com">
+  <img src="https://img.shields.io/badge/Email-noval.abdillah223%40gmail.com-2E8B57?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: noval.abdillah223@gmail.com"/>
+</a>
+<a href="https://linkedin.com/in/noval-abdillah">
+  <img src="https://img.shields.io/badge/LinkedIn-noval--abdillah-2E8B57?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: noval-abdillah"/>
+</a>
+<a href="https://github.com/noval-abdillah">
+  <img src="https://img.shields.io/badge/GitHub-noval--abdillah-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: noval-abdillah"/>
+</a>
+<a href="https://noval-portfolio-gold.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2E8B57?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio: noval-portfolio-gold.vercel.app"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=noval-abdillah&label=Profile%20Views&color=22C55E&style=flat-square" alt="profile views"/>
 
 </div>
 
 <br/>
 
-## About
+## 🌱 About Me
 
-Full stack developer based in Bekasi, focused on **Next.js, Node.js, and PostgreSQL**. I treat AI as a collaborative partner in the build process — moving fast without sacrificing architecture or code quality.
+```yaml
+name: Noval Abdillah
+role: Full Stack Developer
+location: Bekasi, West Java, Indonesia
+focus: Next.js · Node.js · PostgreSQL
+philosophy: >
+  Menggunakan AI sebagai mitra kolaboratif dalam pengembangan software —
+  tetap terarah, tetap solid secara arsitektur, tanpa mengorbankan kualitas kode.
+currently:
+  - Merancang aplikasi production-ready yang scalable & cepat dibangun
+  - Menggabungkan software engineering fundamentals dengan AI-assisted coding
+fun_fact: "Pernah membangun game Roblox yang menarik 100.000+ pemain 🏔️"
+```
 
-Currently designing production-ready, scalable applications, and blending core software engineering with AI-assisted workflows.
+---
 
-<br/>
+## 🛠️ Technical Skills
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/noval-abdillah/noval-abdillah/output/dist/pacman-contribution-graph.svg" width="100%" alt="Pac-Man Contribution Graph"/>
-
-</div>
-
-<br/>
-
-## Stack
-
-<table>
-<tr>
-<td valign="top" width="25%">
 
 **Frontend**
-React · Next.js
-TypeScript
-Tailwind CSS
-GSAP · Three.js
 
-</td>
-<td valign="top" width="25%">
+<img src="https://img.shields.io/badge/React.js-15803D?style=for-the-badge&logo=react&logoColor=white" alt="React.js"/>
+<img src="https://img.shields.io/badge/Next.js-15803D?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/TypeScript-15803D?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/JavaScript%20ES6+-15803D?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript ES6+"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-15803D?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/GSAP-15803D?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP"/>
+<img src="https://img.shields.io/badge/Three.js-15803D?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"/>
 
 **Backend**
-Node.js · Express
-PHP
-REST APIs
-JWT Auth
 
-</td>
-<td valign="top" width="25%">
+<img src="https://img.shields.io/badge/Node.js-166534?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-166534?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+<img src="https://img.shields.io/badge/PHP-166534?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/RESTful%20API-166534?style=for-the-badge&logo=fastapi&logoColor=white" alt="RESTful API"/>
+<img src="https://img.shields.io/badge/JWT%20Auth-166534?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT Auth"/>
 
 **Database**
-PostgreSQL
-MySQL
-Supabase
 
-</td>
-<td valign="top" width="25%">
+<img src="https://img.shields.io/badge/PostgreSQL-14532D?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL-14532D?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Supabase-14532D?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
 
 **Tools**
-Git · GitHub
-Vercel
-CI/CD
-Copilot
 
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Experience
-
-**Web Developer** · CiptaInterior / CKS Group — *Mar 2025 – Jan 2026*
-Built a static-site company profile (HTML5/CSS3/JS) optimized for instant loading and mobile-first design, with a MySQL-backed dynamic content system and WhatsApp integration for client consultation flow.
-
-**Roblox Game Developer** · Freelance — *Feb – May 2025*
-Built *Mount Simartau!*, a mountain-climbing simulation in Luau that reached 100,000+ players, with a stamina system, dynamic weather, and physics-based climbing — optimized for stable frame rates across mobile and PC.
-
-**Database Analyst** · SA-MP Relative Roleplay — *2022 – 2024, remote*
-Managed a Pawn-based gamemode and MySQL database syncing real-time data for thousands of active players; built a web panel (PHP/React/Node.js) and ran disaster recovery to keep the server stable 24/7.
-
-<br/>
-
-## Projects
-
-| | Stack | |
-|---|---|---|
-| **[Brew Ops](https://webs-coffeshop.vercel.app/)** — coffee shop SaaS | Next.js · PostgreSQL · Supabase | Real-time stock, staff attendance, sales reports, RBAC auth, analytics dashboard |
-| **[Tukang Express](https://tukang-express.vercel.app/)** — handyman booking | Next.js · TypeScript · PostgreSQL | End-to-end booking, scheduling, digital wallet, full request-to-completion flow |
-| **[Cipta Interior](http://ciptainterior.rf.gd)** — company profile | Next.js 14 · GSAP · Supabase | SEO/AEO/GEO-optimized, 82–100% average score |
-
-<br/>
-
-## Education & Certifications
-
-SMAN 1 Tarumajaya — Science (MIPA), 2022–2025
-Front-End & Back-End Development, DTA–KOMDIGI, 2026
-Google AI Professional Certificate, 2026
-AI-Assisted Development with GitHub Copilot, Microsoft, 2025
-Intermediate Problem Solving, HackerRank, 2024
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=noval-abdillah&theme=transparent&hide_border=true&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=BBF7D0&currStreakNum=BBF7D0&sideNums=BBF7D0" width="60%" alt="GitHub Streak"/>
+<img src="https://img.shields.io/badge/Git-052E16?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-052E16?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Vercel-052E16?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+<img src="https://img.shields.io/badge/GitHub%20Copilot-052E16?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
+<img src="https://img.shields.io/badge/CI%2FCD-052E16?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
 
 </div>
 
+---
+
+## 💼 Work Experience
+
+<details open>
+<summary><b>🖥️ Web Developer · CiptaInterior / CKS Group</b> — Mar 2025 – Jan 2026 (Contract)</summary>
 <br/>
+
+- Mengembangkan company profile website (pure HTML5, CSS3, JavaScript) dengan arsitektur static-site untuk instant loading, stabilitas tinggi, dan mobile-first design.
+- Merancang database MySQL untuk konten dinamis (gallery, portfolio, services) serta mengelola deployment & ketersediaan halaman.
+- Mengintegrasikan komunikasi real-time via WhatsApp untuk mempercepat flow konsultasi klien.
+
+</details>
+
+<details>
+<summary><b>🎮 Roblox Game Developer</b> — Freelance / Self-Employed · Feb 2025 – May 2025</summary>
+<br/>
+
+- Membangun **"Mount Simartau!"**, game simulasi pendakian gunung di Roblox (Luau) yang menarik **100.000+ pemain**, lengkap dengan stamina system, dynamic weather, dan physics-based climbing.
+- Mengoptimalkan performa game (StreamingEnabled, mesh optimization) untuk frame rate stabil di mobile & PC.
+
+</details>
+
+<details>
+<summary><b>🗄️ Freelance SA-MP Database Analyst</b> — SA-MP Relative Roleplay · 2022 – 2024 (Remote)</summary>
+<br/>
+
+- Mengelola core gamemode berbasis Pawn dan database MySQL (R41+) untuk sinkronisasi data real-time ribuan pemain aktif, sekaligus menjaga stabilitas server-side.
+- Membangun web panel (PHP/React/Node.js) serta menjalankan backup rutin & disaster recovery untuk menjaga integritas server 24/7.
+
+</details>
+
+---
+
+## 🚀 Featured Projects
 
 <div align="center">
 
-*Directing AI without losing focus — that's the craft.*
+| Project | Stack | Highlight |
+|---|---|---|
+| **[☕ Brew Ops — Coffee Shop Management SaaS](https://webs-coffeshop.vercel.app/)** | Next.js · Node.js · PostgreSQL · Supabase · Tailwind | Platform SaaS end-to-end: stok real-time, absensi karyawan, laporan penjualan, multi-role auth (JWT + RBAC), dashboard analitik dengan notifikasi otomatis. |
+| **[🔧 Tukang Express — Handyman Booking Platform](https://tukang-express.vercel.app/)** | Next.js · React · TypeScript · Tailwind · Node.js · PostgreSQL | Platform booking jasa tukang end-to-end: pemesanan, penjadwalan, digital wallet, dan flow SOP lengkap dari request klien hingga konfirmasi selesai. |
+| **[Cipta Interior (CKS Group)](http://ciptainterior.rf.gd)** | Next.js 14 · Tailwind · GSAP · Supabase | Website profil coffee shop yang dioptimasi SEO/AEO/GEO dengan skor rata-rata 82–100%, siap bersaing di AI-powered & traditional search engines. |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:75DC99,50:198754,100:0F5132&height=100&section=footer" width="100%"/>
+</div>
+
+---
+
+## 🎓 Education & Certifications
+
+- 🏫 **SMA Negeri 1 Tarumajaya** — Science Track (MIPA), 2022 – 2025, Bekasi, West Java
+- 📜 **Front-End & Back-End Development - Nasional** — Digital Talent Academy (DTA) - KOMDIGI, 2026
+- 📜 **Google AI Professional Certificate** — Google / Coursera, 2026
+- 📜 **AI-Assisted Development with GitHub Copilot** — Microsoft, 2025
+- 📜 **Intermediate Problem Solving** — HackerRank, 2024
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=noval-abdillah&show_icons=true&theme=transparent&hide_border=true&title_color=22C55E&icon_color=22C55E&text_color=BBF7D0&ring_color=22C55E" width="49%" alt="📊 GitHub Stats: gagal memuat — cek statistik lengkap di github.com/noval-abdillah"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=noval-abdillah&theme=transparent&hide_border=true&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=BBF7D0&currStreakNum=BBF7D0&sideNums=BBF7D0&dates=BBF7D0" width="49%" alt="🔥 GitHub Streak Stats: gagal memuat — cek statistik lengkap di github.com/noval-abdillah"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noval-abdillah&layout=compact&theme=transparent&hide_border=true&title_color=22C55E&text_color=BBF7D0&langs_count=8" width="49%" alt="💻 Top Languages: gagal memuat — cek statistik lengkap di github.com/noval-abdillah"/>
+
+</div>
+
+---
+
+## 🌿 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=noval-abdillah&theme=react-dark&bg_color=transparent&color=22C55E&line=22C55E&point=BBF7D0&hide_border=true" width="100%" alt="🌿 Contribution Activity Graph: gagal memuat — cek aktivitas lengkap di github.com/noval-abdillah"/>
+
+<img src="https://raw.githubusercontent.com/noval-abdillah/noval-abdillah/output/github-contribution-grid-snake-dark.svg" width="100%" alt="🐍 Snake Animation: sedang dibuat / belum tersedia — lihat contribution graph di atas"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 "Directing AI without losing focus — that's the craft."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:75DC99,50:198754,100:0F5132&height=120&section=footer" width="100%" alt="Terima kasih sudah berkunjung ke profil Noval Abdillah 🌱"/>
 
 </div>
