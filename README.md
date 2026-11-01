@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3F6B57,50:5E8C78,100:A8C7B7&height=180&section=header&text=Noval%20Abdillah&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Developer%20%C2%B7%20AI%20%26%20n8n%20Workflow%20Automation&descAlignY=62&descSize=16" width="100%" alt="Noval Abdillah — Full-Stack Developer | AI & n8n Workflow Automation"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3F6B57,50:5E8C78,100:A8C7B7&height=180&section=header&text=Noval%20Abdillah&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20and%20AI%20Automation&descAlignY=62&descSize=17" width="100%" alt="Noval Abdillah — Full-Stack Developer | AI & n8n Workflow Automation"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3500&pause=1200&color=5E8C78&center=true&vCenter=true&width=600&lines=Next.js+%C2%B7+Node.js+%C2%B7+PostgreSQL;Full-stack+web+apps+%26+AI+workflow+automation;Cutting+repetitive+manual+work+by+up+to+60%25;Open+to+full-time%2C+freelance+%26+collaboration;North+Bekasi%2C+West+Java%2C+Indonesia" alt="Typing SVG" />
